@@ -20,11 +20,11 @@ ___
 
   ``` bash
   # windowswappa
-  bind = $mainMod, A, exec, ~/.config/hypr/scripts/windowswapa_add.sh
-  bind = $mainMod, Bar, exec, ~/.config/hypr/scripts/windowswapa_next.sh -N
-  bind = $mainMod SHIFT, Bar, exec, ~/.config/hypr/scripts/windowswapa_next.sh
-  bind = $mainMod, D, exec, ~/.config/hypr/scripts/windowswapa_select.sh
-  bind = $mainMod, X, exec, ~/.config/hypr/scripts/windowswapa_select.sh -S
+  bind = $mainMod, A, exec, ~/.config/hypr/scripts/windowswappa_add.sh
+  bind = $mainMod, Bar, exec, ~/.config/hypr/scripts/windowswappa_next.sh -N
+  bind = $mainMod SHIFT, Bar, exec, ~/.config/hypr/scripts/windowswappa_next.sh
+  bind = $mainMod, D, exec, ~/.config/hypr/scripts/windowswappa_select.sh
+  bind = $mainMod, X, exec, ~/.config/hypr/scripts/windowswappa_select.sh -S
   ```
 
 ## Usage
